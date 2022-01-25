@@ -5,7 +5,7 @@
 
 \book {
   \bookpart {
-    \section "Salve Regina"
+    \section "Regina cœli"
     \addTocEntry
     \paper { indent = 3\cm }
     \score {
@@ -83,7 +83,7 @@
         \new FiguredBass { \BassFigures }
       >>
       \layout { }
-      \midi { \tempo 4 = 90 }
+      \midi { \tempo 4 = 110 }
     }
   }
 }

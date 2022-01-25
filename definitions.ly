@@ -2,11 +2,11 @@
 
 #(define option-movement-title-format "title")
 #(define option-init-toc #t)
-#(define option-print-all-bar-numbers #t)
+#(define option-print-all-bar-numbers #f)
 \include "ees.ly"
 
 
-tempoSalve = \tempoMarkup "Allegro"
+tempoRegina = \tempoMarkup "Allegro"
 
 
 \include "notes/ob1.ly"
